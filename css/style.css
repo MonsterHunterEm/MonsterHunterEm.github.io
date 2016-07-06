@@ -37,12 +37,12 @@ li a{
   text-decoration: none;
 }
 li a:hover{
-  background-color: grey;
+  background-color: blue;
 }
 .active {
-  background-color: hotpink;
+  background-color: turquoise;
   color: black;
 }
 .active:hover {
-  background-color: #E75480;
+  background-color: #E552469;
 }
