@@ -37,11 +37,11 @@ li a{
   text-decoration: none;
 }
 li a:hover{
-  background-color: blue;
+  background-color:teal;
 }
 .active {
-  background-color:turqoise;
-  color: black;
+  background-color:teal;
+  color:purple;
 }
 .active:hover {
   background-color: #E552469;
